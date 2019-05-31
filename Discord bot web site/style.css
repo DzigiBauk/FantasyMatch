@@ -1,0 +1,9 @@
+body{
+  background-image: url("Background for discord site.png");
+}
+#thumb{
+  image-position:top;
+  image-attachment:fixed;
+  margin-right:50px;
+
+}

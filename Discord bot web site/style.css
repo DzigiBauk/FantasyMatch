@@ -108,7 +108,6 @@ a {
   transition: all 0.2s ease-in;
   position: relative;
   overflow: hidden;
-  left: 1%;
 }
 .button-alt-2:before {
   content: "";

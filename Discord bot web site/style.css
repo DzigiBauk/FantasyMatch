@@ -1,15 +1,15 @@
 .bot-profile-img {
-    border-radius: 50%;
-    border: solid;
-    border-color: white;
-    margin-top: 50px;
-    width: 20%;
-    height: auto;
-    position: relative;
-    display: block;
-	margin-left: auto;
-	margin-right: auto;
-  border-radius-color: white;
+   border-radius: 50%;
+   border: solid;
+   border-color: white;
+   margin-top: 50px;
+   width: 20%;
+   height: auto;
+   position: relative;
+   display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+   border-radius-color: white;
 }
 
 /* Button */
@@ -209,4 +209,22 @@ a {
   top: -45%;
   background-color: #0037ff;
   transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+}
+
+/* Kraj PayPal Buttona */
+
+/* Lista Komandi */
+
+.tempn {
+  border: 3px solid white;
+  padding: 0.4% 4;
+  width: 70%;
+  margin-left: 15%;
+  text-align: left;
+  background-color: black;
+}
+
+.lista-k {
+  padding-left: 2%;
+  font-size: 1.4vw;
 }

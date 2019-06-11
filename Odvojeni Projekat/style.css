@@ -1,0 +1,33 @@
+.title {
+  text-align: center; 
+  font-family: Arial; 
+  color: #75eaf4; 
+  font-size: 6vw;
+  padding-top: 4vw;
+}
+
+.menu-btn-1 {
+  text-align: center;
+}
+
+.button-1 {
+  display: inline-block;
+  padding: 0.5% 4%;
+  color: #39bda7;
+  border: 3px solid #39bda7;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.button-1:hover {
+  display: inline-block;
+  padding: 0.5% 4%;
+  color: black;
+  border: 3px solid black;
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}

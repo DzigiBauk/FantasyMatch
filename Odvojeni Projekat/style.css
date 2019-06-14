@@ -45,7 +45,7 @@
 .dot {
   height:5vw;
   width: 5vw;
-  background-color: #bbb;
+  background-color: #00ffa1;
   border-radius: 50%;
   display: inline-block;
   text-align: center;
@@ -112,6 +112,7 @@
     font-weight: bold;
     font-size: 1.25em;
     color: #333;
+    font-family: Arial;
 }
 
 .cart-column {
@@ -155,7 +156,7 @@
 }
 
 .section-header {
-    font-family: "Metal Mania";
+    font-family: "Arial";
     font-weight: normal;
     color: #333;
     text-align: center;
